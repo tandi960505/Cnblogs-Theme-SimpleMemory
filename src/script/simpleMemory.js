@@ -170,7 +170,7 @@ if (initCheck()) {
         },
         bottomBlogroll: [],
         bottomText: {
-            icon: "❤️",
+            icon: "-",
             left: "",
             right: ""
         },
